@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfMapCollateralDataItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MapCollateralDataItem FileName="Petrosys map collateral">
+    <Version>Petrel 2021.1</Version>
+    <Id>e13b6eed-d8ff-4852-b468-1562c6844718</Id>
+    <DataSourceId>Petrosys.MapCollateralDataSource</DataSourceId>
+    <CollateralType>0</CollateralType>
+    <Data />
+    <UserName>AzureAD\PeterOdong</UserName>
+    <Time>2023-09-11T07:20:07.2969246Z</Time>
+    <Parent>://empty/empty</Parent>
+    <Children />
+  </MapCollateralDataItem>
+</ArrayOfMapCollateralDataItem>

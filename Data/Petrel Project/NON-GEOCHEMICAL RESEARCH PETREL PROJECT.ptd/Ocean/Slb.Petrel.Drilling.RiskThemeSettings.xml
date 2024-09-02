@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RiskTheme version="2021.2">
+  <ShapeMapType>Type</ShapeMapType>
+  <ColorMapType>SeverityLevel</ColorMapType>
+  <PatternMapType>ProbabilityLevel</PatternMapType>
+  <MappingOfRiskSeverity>
+    <ShapeMapping>
+      <index0 SeverityLevel="Unknown" Shape="Pentagonal prism" />
+      <index1 SeverityLevel="Light" Shape="Cuboid" />
+      <index2 SeverityLevel="Serious" Shape="Octagonal prism" />
+      <index3 SeverityLevel="Major" Shape="Cylinder" />
+      <index4 SeverityLevel="Catastrophic" Shape="Blade" />
+      <index5 SeverityLevel="Multi catastrophic" Shape="Hexagonal prism" />
+    </ShapeMapping>
+    <ColorMapping>
+      <index0 SeverityLevel="Unknown" Color="Gray" />
+      <index1 SeverityLevel="Light" Color="Blue" />
+      <index2 SeverityLevel="Serious" Color="Green" />
+      <index3 SeverityLevel="Major" Color="Goldenrod" />
+      <index4 SeverityLevel="Catastrophic" Color="Magenta" />
+      <index5 SeverityLevel="Multi catastrophic" Color="Red" />
+    </ColorMapping>
+    <PatternMapping>
+      <index0 SeverityLevel="Unknown" Pattern="Solid" />
+      <index1 SeverityLevel="Light" Pattern="Brick" />
+      <index2 SeverityLevel="Serious" Pattern="Diagonal" />
+      <index3 SeverityLevel="Major" Pattern="Cross" />
+      <index4 SeverityLevel="Catastrophic" Pattern="Dashed" />
+      <index5 SeverityLevel="Multi catastrophic" Pattern="Weave" />
+    </PatternMapping>
+  </MappingOfRiskSeverity>
+  <MappingOfRiskProbability>
+    <ShapeMapping>
+      <index0 ProbabilityLevel="Unknown" Shape="Pentagonal prism" />
+      <index1 ProbabilityLevel="Improbable" Shape="Blade" />
+      <index2 ProbabilityLevel="Unlikely" Shape="Octagonal prism" />
+      <index3 ProbabilityLevel="Possible" Shape="Cylinder" />
+      <index4 ProbabilityLevel="Likely" Shape="Cuboid" />
+      <index5 ProbabilityLevel="Probable" Shape="Hexagonal prism" />
+    </ShapeMapping>
+    <ColorMapping>
+      <index0 ProbabilityLevel="Unknown" Color="255, 0, 0" />
+      <index1 ProbabilityLevel="Improbable" Color="255, 255, 0" />
+      <index2 ProbabilityLevel="Unlikely" Color="0, 255, 0" />
+      <index3 ProbabilityLevel="Possible" Color="0, 255, 255" />
+      <index4 ProbabilityLevel="Likely" Color="0, 0, 255" />
+      <index5 ProbabilityLevel="Probable" Color="255, 0, 255" />
+    </ColorMapping>
+    <PatternMapping>
+      <index0 ProbabilityLevel="Unknown" Pattern="Solid" />
+      <index1 ProbabilityLevel="Improbable" Pattern="Weave" />
+      <index2 ProbabilityLevel="Unlikely" Pattern="Dashed" />
+      <index3 ProbabilityLevel="Possible" Pattern="Cross" />
+      <index4 ProbabilityLevel="Likely" Pattern="Diagonal" />
+      <index5 ProbabilityLevel="Probable" Pattern="Brick" />
+    </PatternMapping>
+  </MappingOfRiskProbability>
+  <MappingOfRiskCategory>
+    <ShapeMapping>
+      <index0 Category="Bit" Shape="Blade" />
+      <index1 Category="Casing" Shape="Triangular prism" />
+      <index2 Category="Completion" Shape="Cuboid" />
+      <index3 Category="Directional drilling" Shape="Pentagonal prism" />
+      <index4 Category="Equipment failure" Shape="Hexagonal prism" />
+      <index5 Category="HSE" Shape="Octagonal prism" />
+      <index6 Category="Hydraulics" Shape="Cylinder" />
+      <index7 Category="Mechanical" Shape="Blade" />
+      <index8 Category="Other" Shape="Triangular prism" />
+      <index9 Category="Time related" Shape="Cuboid" />
+      <index10 Category="Unknown" Shape="Hexagonal prism" />
+      <index11 Category="Wellbore stability" Shape="Pentagonal prism" />
+    </ShapeMapping>
+    <ColorMapping>
+      <index0 Category="Bit" Color="0, 255, 255" />
+      <index1 Category="Casing" Color="127, 0, 255" />
+      <index2 Category="Completion" Color="0, 0, 255" />
+      <index3 Category="Directional drilling" Color="0, 255, 127" />
+      <index4 Category="Equipment failure" Color="0, 127, 255" />
+      <index5 Category="HSE" Color="255, 0, 127" />
+      <index6 Category="Hydraulics" Color="255, 127, 0" />
+      <index7 Category="Mechanical" Color="255, 255, 0" />
+      <index8 Category="Other" Color="255, 0, 255" />
+      <index9 Category="Time related" Color="127, 255, 0" />
+      <index10 Category="Unknown" Color="255, 0, 0" />
+      <index11 Category="Wellbore stability" Color="0, 255, 0" />
+    </ColorMapping>
+    <PatternMapping>
+      <index0 Category="Bit" Pattern="Checker" />
+      <index1 Category="Casing" Pattern="Frame" />
+      <index2 Category="Completion" Pattern="Divot" />
+      <index3 Category="Directional drilling" Pattern="Weave" />
+      <index4 Category="Equipment failure" Pattern="Confetti" />
+      <index5 Category="HSE" Pattern="Shingle" />
+      <index6 Category="Hydraulics" Pattern="Brick" />
+      <index7 Category="Mechanical" Pattern="Diagonal" />
+      <index8 Category="Other" Pattern="Horizontal" />
+      <index9 Category="Time related" Pattern="Cross" />
+      <index10 Category="Unknown" Pattern="Solid" />
+      <index11 Category="Wellbore stability" Pattern="Dashed" />
+    </PatternMapping>
+  </MappingOfRiskCategory>
+  <MappingOfRiskSubCategory>
+    <ShapeMapping>
+      <index0 SubCategory="Abnormal tendency changes" Shape="Blade" />
+      <index1 SubCategory="Asset" Shape="Cuboid" />
+      <index2 SubCategory="Automotive" Shape="Triangular prism" />
+      <index3 SubCategory="Ballooning" Shape="Pentagonal prism" />
+      <index4 SubCategory="Bed parallel" Shape="Hexagonal prism" />
+      <index5 SubCategory="BHA change for directional" Shape="Octagonal prism" />
+      <index6 SubCategory="Bit balling" Shape="Cylinder" />
+      <index7 SubCategory="Bit or BHA performance" Shape="Blade" />
+      <index8 SubCategory="Blow out preventer events" Shape="Cuboid" />
+      <index9 SubCategory="Breakouts" Shape="Triangular prism" />
+      <index10 SubCategory="Broaching" Shape="Pentagonal prism" />
+      <index11 SubCategory="Casing collapse" Shape="Hexagonal prism" />
+      <index12 SubCategory="Casing rotation or reciprocation rqd" Shape="Octagonal prism" />
+      <index13 SubCategory="Casing surge losses" Shape="Cylinder" />
+      <index14 SubCategory="Circulating equipment failure" Shape="Blade" />
+      <index15 SubCategory="Completion equipment failure" Shape="Cuboid" />
+      <index16 SubCategory="Completion or casing" Shape="Triangular prism" />
+      <index17 SubCategory="Delay due to political unrest" Shape="Pentagonal prism" />
+      <index18 SubCategory="Downhole tool" Shape="Hexagonal prism" />
+      <index19 SubCategory="Drilling greater than 1000 feet per day" Shape="Octagonal prism" />
+      <index20 SubCategory="Drilling greater than 2000 feet per day" Shape="Cylinder" />
+      <index21 SubCategory="Drilling less than 20 feet per day" Shape="Blade" />
+      <index22 SubCategory="Drilling optimization" Shape="Cuboid" />
+      <index23 SubCategory="Early cement setup" Shape="Triangular prism" />
+      <index24 SubCategory="Electrical system failure" Shape="Pentagonal prism" />
+      <index25 SubCategory="Environmental" Shape="Hexagonal prism" />
+      <index26 SubCategory="Excessive bit wear or gauge" Shape="Octagonal prism" />
+      <index27 SubCategory="Excessive casing wear or cuttings" Shape="Cylinder" />
+      <index28 SubCategory="Excessive circulation" Shape="Blade" />
+      <index29 SubCategory="Excessive doglegs" Shape="Cuboid" />
+      <index30 SubCategory="Excessive drag" Shape="Triangular prism" />
+      <index31 SubCategory="Excessive formation damage or skin" Shape="Pentagonal prism" />
+      <index32 SubCategory="Excessive pipe cement scaling" Shape="Hexagonal prism" />
+      <index33 SubCategory="Excessive time for BHA makeup" Shape="Octagonal prism" />
+      <index34 SubCategory="Excessive torque" Shape="Cylinder" />
+      <index35 SubCategory="Failed inspections or fatigue wear" Shape="Blade" />
+      <index36 SubCategory="Fishing" Shape="Cuboid" />
+      <index37 SubCategory="Formation integrity test" Shape="Triangular prism" />
+      <index38 SubCategory="Fracture problems" Shape="Pentagonal prism" />
+      <index39 SubCategory="Gas hydrates" Shape="Hexagonal prism" />
+      <index40 SubCategory="Gas kick" Shape="Octagonal prism" />
+      <index41 SubCategory="Geosteering" Shape="Cylinder" />
+      <index42 SubCategory="Good hole cleaning at high ROP" Shape="Blade" />
+      <index43 SubCategory="Gumbo problems" Shape="Cuboid" />
+      <index44 SubCategory="High ECD rheology related" Shape="Triangular prism" />
+      <index45 SubCategory="High mud weight" Shape="Pentagonal prism" />
+      <index46 SubCategory="High rate of bit penetration" Shape="Hexagonal prism" />
+      <index47 SubCategory="Hoisting equipment failure" Shape="Octagonal prism" />
+      <index48 SubCategory="HSE" Shape="Cylinder" />
+      <index49 SubCategory="In field referencing actions" Shape="Blade" />
+      <index50 SubCategory="Information" Shape="Cuboid" />
+      <index51 SubCategory="Junk in hole" Shape="Triangular prism" />
+      <index52 SubCategory="Leak off test" Shape="Pentagonal prism" />
+      <index53 SubCategory="Loss circulation" Shape="Hexagonal prism" />
+      <index54 SubCategory="Lost cones or broken cutters" Shape="Octagonal prism" />
+      <index55 SubCategory="Low rate of bit penetration" Shape="Cylinder" />
+      <index56 SubCategory="Mechanical" Shape="Blade" />
+      <index57 SubCategory="Milling" Shape="Cuboid" />
+      <index58 SubCategory="Miscellaneous rig equipment" Shape="Triangular prism" />
+      <index59 SubCategory="Motor or rotary steerable system failure" Shape="Pentagonal prism" />
+      <index60 SubCategory="Mud stability problems" Shape="Hexagonal prism" />
+      <index61 SubCategory="Mud weight change" Shape="Octagonal prism" />
+      <index62 SubCategory="Other" Shape="Cylinder" />
+      <index63 SubCategory="Other influx or kicks" Shape="Blade" />
+      <index64 SubCategory="Pending analysis" Shape="Cuboid" />
+      <index65 SubCategory="Performing a kill" Shape="Triangular prism" />
+      <index66 SubCategory="Personnel" Shape="Pentagonal prism" />
+      <index67 SubCategory="Pit gain or loss" Shape="Hexagonal prism" />
+      <index68 SubCategory="Poor hole cleaning" Shape="Octagonal prism" />
+      <index69 SubCategory="Pore pressure" Shape="Cylinder" />
+      <index70 SubCategory="Reaming greater than 2 hours" Shape="Blade" />
+      <index71 SubCategory="Resurveying" Shape="Cuboid" />
+      <index72 SubCategory="Rig communications" Shape="Triangular prism" />
+      <index73 SubCategory="Rig move" Shape="Pentagonal prism" />
+      <index74 SubCategory="Riser disconnect" Shape="Hexagonal prism" />
+      <index75 SubCategory="Shallow gas flow" Shape="Octagonal prism" />
+      <index76 SubCategory="Shallow water influx" Shape="Cylinder" />
+      <index77 SubCategory="Shoe failures" Shape="Blade" />
+      <index78 SubCategory="Sidetrack" Shape="Cuboid" />
+      <index79 SubCategory="Sloughing or packoffs" Shape="Triangular prism" />
+      <index80 SubCategory="Special additives needed" Shape="Pentagonal prism" />
+      <index81 SubCategory="Squeeze jobs" Shape="Hexagonal prism" />
+      <index82 SubCategory="Stick and slip" Shape="Octagonal prism" />
+      <index83 SubCategory="Stratigraphy" Shape="Cylinder" />
+      <index84 SubCategory="Stuck casing or completion" Shape="Blade" />
+      <index85 SubCategory="Stuck pipe" Shape="Cuboid" />
+      <index86 SubCategory="Surface instrumentation problems" Shape="Triangular prism" />
+      <index87 SubCategory="Surface system" Shape="Pentagonal prism" />
+      <index88 SubCategory="Tectonics" Shape="Hexagonal prism" />
+      <index89 SubCategory="Tight hole or over pull" Shape="Octagonal prism" />
+      <index90 SubCategory="Time" Shape="Cylinder" />
+      <index91 SubCategory="Tool or equipment failure" Shape="Blade" />
+      <index92 SubCategory="Topdrive failure" Shape="Cuboid" />
+      <index93 SubCategory="Trips greater than 24 hours" Shape="Triangular prism" />
+      <index94 SubCategory="Twist off" Shape="Pentagonal prism" />
+      <index95 SubCategory="Uneven wear of BHA" Shape="Hexagonal prism" />
+      <index96 SubCategory="Uneven wear of drillstring" Shape="Octagonal prism" />
+      <index97 SubCategory="Unknown" Shape="Cylinder" />
+      <index98 SubCategory="Unstable zones" Shape="Blade" />
+      <index99 SubCategory="Vibration axial" Shape="Cuboid" />
+      <index100 SubCategory="Vibration torsional" Shape="Triangular prism" />
+      <index101 SubCategory="Vibration transverse" Shape="Pentagonal prism" />
+      <index102 SubCategory="Vibration unknown or rough drilling" Shape="Hexagonal prism" />
+      <index103 SubCategory="Waiting on decisions" Shape="Octagonal prism" />
+      <index104 SubCategory="Waiting on tools" Shape="Cylinder" />
+      <index105 SubCategory="Waiting on weather" Shape="Blade" />
+      <index106 SubCategory="Washouts" Shape="Cuboid" />
+      <index107 SubCategory="Well collision actual" Shape="Triangular prism" />
+      <index108 SubCategory="Well collision technical" Shape="Pentagonal prism" />
+      <index109 SubCategory="Wellbore stability" Shape="Hexagonal prism" />
+      <index110 SubCategory="Wireline stuck in hole" Shape="Octagonal prism" />
+      <index111 SubCategory="Wrong total flow area" Shape="Cylinder" />
+    </ShapeMapping>
+    <ColorMapping>
+      <index0 SubCategory="Abnormal tendency changes" Color="255, 0, 0" />
+      <index1 SubCategory="Asset" Color="255, 127, 0" />
+      <index2 SubCategory="Automotive" Color="255, 255, 0" />
+      <index3 SubCategory="Ballooning" Color="127, 255, 0" />
+      <index4 SubCategory="Bed parallel" Color="0, 255, 0" />
+      <index5 SubCategory="BHA change for directional" Color="0, 255, 127" />
+      <index6 SubCategory="Bit balling" Color="0, 255, 255" />
+      <index7 SubCategory="Bit or BHA performance" Color="0, 127, 255" />
+      <index8 SubCategory="Blow out preventer events" Color="0, 0, 255" />
+      <index9 SubCategory="Breakouts" Color="127, 0, 255" />
+      <index10 SubCategory="Broaching" Color="255, 0, 255" />
+      <index11 SubCategory="Casing collapse" Color="255, 0, 127" />
+      <index12 SubCategory="Casing rotation or reciprocation rqd" Color="255, 0, 0" />
+      <index13 SubCategory="Casing surge losses" Color="255, 127, 0" />
+      <index14 SubCategory="Circulating equipment failure" Color="255, 255, 0" />
+      <index15 SubCategory="Completion equipment failure" Color="127, 255, 0" />
+      <index16 SubCategory="Completion or casing" Color="0, 255, 0" />
+      <index17 SubCategory="Delay due to political unrest" Color="0, 255, 127" />
+      <index18 SubCategory="Downhole tool" Color="0, 255, 255" />
+      <index19 SubCategory="Drilling greater than 1000 feet per day" Color="0, 127, 255" />
+      <index20 SubCategory="Drilling greater than 2000 feet per day" Color="0, 0, 255" />
+      <index21 SubCategory="Drilling less than 20 feet per day" Color="127, 0, 255" />
+      <index22 SubCategory="Drilling optimization" Color="255, 0, 255" />
+      <index23 SubCategory="Early cement setup" Color="255, 0, 127" />
+      <index24 SubCategory="Electrical system failure" Color="255, 0, 0" />
+      <index25 SubCategory="Environmental" Color="255, 127, 0" />
+      <index26 SubCategory="Excessive bit wear or gauge" Color="255, 255, 0" />
+      <index27 SubCategory="Excessive casing wear or cuttings" Color="127, 255, 0" />
+      <index28 SubCategory="Excessive circulation" Color="0, 255, 0" />
+      <index29 SubCategory="Excessive doglegs" Color="0, 255, 127" />
+      <index30 SubCategory="Excessive drag" Color="0, 255, 255" />
+      <index31 SubCategory="Excessive formation damage or skin" Color="0, 127, 255" />
+      <index32 SubCategory="Excessive pipe cement scaling" Color="0, 0, 255" />
+      <index33 SubCategory="Excessive time for BHA makeup" Color="127, 0, 255" />
+      <index34 SubCategory="Excessive torque" Color="255, 0, 255" />
+      <index35 SubCategory="Failed inspections or fatigue wear" Color="255, 0, 127" />
+      <index36 SubCategory="Fishing" Color="255, 0, 0" />
+      <index37 SubCategory="Formation integrity test" Color="255, 127, 0" />
+      <index38 SubCategory="Fracture problems" Color="255, 255, 0" />
+      <index39 SubCategory="Gas hydrates" Color="127, 255, 0" />
+      <index40 SubCategory="Gas kick" Color="0, 255, 0" />
+      <index41 SubCategory="Geosteering" Color="0, 255, 127" />
+      <index42 SubCategory="Good hole cleaning at high ROP" Color="0, 255, 255" />
+      <index43 SubCategory="Gumbo problems" Color="0, 127, 255" />
+      <index44 SubCategory="High ECD rheology related" Color="0, 0, 255" />
+      <index45 SubCategory="High mud weight" Color="127, 0, 255" />
+      <index46 SubCategory="High rate of bit penetration" Color="255, 0, 255" />
+      <index47 SubCategory="Hoisting equipment failure" Color="255, 0, 127" />
+      <index48 SubCategory="HSE" Color="255, 0, 0" />
+      <index49 SubCategory="In field referencing actions" Color="255, 127, 0" />
+      <index50 SubCategory="Information" Color="255, 255, 0" />
+      <index51 SubCategory="Junk in hole" Color="127, 255, 0" />
+      <index52 SubCategory="Leak off test" Color="0, 255, 0" />
+      <index53 SubCategory="Loss circulation" Color="0, 255, 127" />
+      <index54 SubCategory="Lost cones or broken cutters" Color="0, 255, 255" />
+      <index55 SubCategory="Low rate of bit penetration" Color="0, 127, 255" />
+      <index56 SubCategory="Mechanical" Color="0, 0, 255" />
+      <index57 SubCategory="Milling" Color="127, 0, 255" />
+      <index58 SubCategory="Miscellaneous rig equipment" Color="255, 0, 255" />
+      <index59 SubCategory="Motor or rotary steerable system failure" Color="255, 0, 127" />
+      <index60 SubCategory="Mud stability problems" Color="255, 0, 0" />
+      <index61 SubCategory="Mud weight change" Color="255, 127, 0" />
+      <index62 SubCategory="Other" Color="255, 255, 0" />
+      <index63 SubCategory="Other influx or kicks" Color="127, 255, 0" />
+      <index64 SubCategory="Pending analysis" Color="0, 255, 0" />
+      <index65 SubCategory="Performing a kill" Color="0, 255, 127" />
+      <index66 SubCategory="Personnel" Color="0, 255, 255" />
+      <index67 SubCategory="Pit gain or loss" Color="0, 127, 255" />
+      <index68 SubCategory="Poor hole cleaning" Color="0, 0, 255" />
+      <index69 SubCategory="Pore pressure" Color="127, 0, 255" />
+      <index70 SubCategory="Reaming greater than 2 hours" Color="255, 0, 255" />
+      <index71 SubCategory="Resurveying" Color="255, 0, 127" />
+      <index72 SubCategory="Rig communications" Color="255, 0, 0" />
+      <index73 SubCategory="Rig move" Color="255, 127, 0" />
+      <index74 SubCategory="Riser disconnect" Color="255, 255, 0" />
+      <index75 SubCategory="Shallow gas flow" Color="127, 255, 0" />
+      <index76 SubCategory="Shallow water influx" Color="0, 255, 0" />
+      <index77 SubCategory="Shoe failures" Color="0, 255, 127" />
+      <index78 SubCategory="Sidetrack" Color="0, 255, 255" />
+      <index79 SubCategory="Sloughing or packoffs" Color="0, 127, 255" />
+      <index80 SubCategory="Special additives needed" Color="0, 0, 255" />
+      <index81 SubCategory="Squeeze jobs" Color="127, 0, 255" />
+      <index82 SubCategory="Stick and slip" Color="255, 0, 255" />
+      <index83 SubCategory="Stratigraphy" Color="255, 0, 127" />
+      <index84 SubCategory="Stuck casing or completion" Color="255, 0, 0" />
+      <index85 SubCategory="Stuck pipe" Color="255, 127, 0" />
+      <index86 SubCategory="Surface instrumentation problems" Color="255, 255, 0" />
+      <index87 SubCategory="Surface system" Color="127, 255, 0" />
+      <index88 SubCategory="Tectonics" Color="0, 255, 0" />
+      <index89 SubCategory="Tight hole or over pull" Color="0, 255, 127" />
+      <index90 SubCategory="Time" Color="0, 255, 255" />
+      <index91 SubCategory="Tool or equipment failure" Color="0, 127, 255" />
+      <index92 SubCategory="Topdrive failure" Color="0, 0, 255" />
+      <index93 SubCategory="Trips greater than 24 hours" Color="127, 0, 255" />
+      <index94 SubCategory="Twist off" Color="255, 0, 255" />
+      <index95 SubCategory="Uneven wear of BHA" Color="255, 0, 127" />
+      <index96 SubCategory="Uneven wear of drillstring" Color="255, 0, 0" />
+      <index97 SubCategory="Unknown" Color="255, 127, 0" />
+      <index98 SubCategory="Unstable zones" Color="255, 255, 0" />
+      <index99 SubCategory="Vibration axial" Color="127, 255, 0" />
+      <index100 SubCategory="Vibration torsional" Color="0, 255, 0" />
+      <index101 SubCategory="Vibration transverse" Color="0, 255, 127" />
+      <index102 SubCategory="Vibration unknown or rough drilling" Color="0, 255, 255" />
+      <index103 SubCategory="Waiting on decisions" Color="0, 127, 255" />
+      <index104 SubCategory="Waiting on tools" Color="0, 0, 255" />
+      <index105 SubCategory="Waiting on weather" Color="127, 0, 255" />
+      <index106 SubCategory="Washouts" Color="255, 0, 255" />
+      <index107 SubCategory="Well collision actual" Color="255, 0, 127" />
+      <index108 SubCategory="Well collision technical" Color="255, 0, 0" />
+      <index109 SubCategory="Wellbore stability" Color="255, 127, 0" />
+      <index110 SubCategory="Wireline stuck in hole" Color="255, 255, 0" />
+      <index111 SubCategory="Wrong total flow area" Color="127, 255, 0" />
+    </ColorMapping>
+    <PatternMapping>
+      <index0 SubCategory="Abnormal tendency changes" Pattern="Solid" />
+      <index1 SubCategory="Asset" Pattern="Brick" />
+      <index2 SubCategory="Automotive" Pattern="Diagonal" />
+      <index3 SubCategory="Ballooning" Pattern="Cross" />
+      <index4 SubCategory="Bed parallel" Pattern="Dashed" />
+      <index5 SubCategory="BHA change for directional" Pattern="Weave" />
+      <index6 SubCategory="Bit balling" Pattern="Checker" />
+      <index7 SubCategory="Bit or BHA performance" Pattern="Confetti" />
+      <index8 SubCategory="Blow out preventer events" Pattern="Divot" />
+      <index9 SubCategory="Breakouts" Pattern="Frame" />
+      <index10 SubCategory="Broaching" Pattern="Horizontal" />
+      <index11 SubCategory="Casing collapse" Pattern="Shingle" />
+      <index12 SubCategory="Casing rotation or reciprocation rqd" Pattern="Sloping" />
+      <index13 SubCategory="Casing surge losses" Pattern="Solid" />
+      <index14 SubCategory="Circulating equipment failure" Pattern="Brick" />
+      <index15 SubCategory="Completion equipment failure" Pattern="Diagonal" />
+      <index16 SubCategory="Completion or casing" Pattern="Cross" />
+      <index17 SubCategory="Delay due to political unrest" Pattern="Dashed" />
+      <index18 SubCategory="Downhole tool" Pattern="Weave" />
+      <index19 SubCategory="Drilling greater than 1000 feet per day" Pattern="Checker" />
+      <index20 SubCategory="Drilling greater than 2000 feet per day" Pattern="Confetti" />
+      <index21 SubCategory="Drilling less than 20 feet per day" Pattern="Divot" />
+      <index22 SubCategory="Drilling optimization" Pattern="Frame" />
+      <index23 SubCategory="Early cement setup" Pattern="Horizontal" />
+      <index24 SubCategory="Electrical system failure" Pattern="Shingle" />
+      <index25 SubCategory="Environmental" Pattern="Sloping" />
+      <index26 SubCategory="Excessive bit wear or gauge" Pattern="Solid" />
+      <index27 SubCategory="Excessive casing wear or cuttings" Pattern="Brick" />
+      <index28 SubCategory="Excessive circulation" Pattern="Diagonal" />
+      <index29 SubCategory="Excessive doglegs" Pattern="Cross" />
+      <index30 SubCategory="Excessive drag" Pattern="Dashed" />
+      <index31 SubCategory="Excessive formation damage or skin" Pattern="Weave" />
+      <index32 SubCategory="Excessive pipe cement scaling" Pattern="Checker" />
+      <index33 SubCategory="Excessive time for BHA makeup" Pattern="Confetti" />
+      <index34 SubCategory="Excessive torque" Pattern="Divot" />
+      <index35 SubCategory="Failed inspections or fatigue wear" Pattern="Frame" />
+      <index36 SubCategory="Fishing" Pattern="Horizontal" />
+      <index37 SubCategory="Formation integrity test" Pattern="Shingle" />
+      <index38 SubCategory="Fracture problems" Pattern="Sloping" />
+      <index39 SubCategory="Gas hydrates" Pattern="Solid" />
+      <index40 SubCategory="Gas kick" Pattern="Brick" />
+      <index41 SubCategory="Geosteering" Pattern="Diagonal" />
+      <index42 SubCategory="Good hole cleaning at high ROP" Pattern="Cross" />
+      <index43 SubCategory="Gumbo problems" Pattern="Dashed" />
+      <index44 SubCategory="High ECD rheology related" Pattern="Weave" />
+      <index45 SubCategory="High mud weight" Pattern="Checker" />
+      <index46 SubCategory="High rate of bit penetration" Pattern="Confetti" />
+      <index47 SubCategory="Hoisting equipment failure" Pattern="Divot" />
+      <index48 SubCategory="HSE" Pattern="Frame" />
+      <index49 SubCategory="In field referencing actions" Pattern="Horizontal" />
+      <index50 SubCategory="Information" Pattern="Shingle" />
+      <index51 SubCategory="Junk in hole" Pattern="Sloping" />
+      <index52 SubCategory="Leak off test" Pattern="Solid" />
+      <index53 SubCategory="Loss circulation" Pattern="Brick" />
+      <index54 SubCategory="Lost cones or broken cutters" Pattern="Diagonal" />
+      <index55 SubCategory="Low rate of bit penetration" Pattern="Cross" />
+      <index56 SubCategory="Mechanical" Pattern="Dashed" />
+      <index57 SubCategory="Milling" Pattern="Weave" />
+      <index58 SubCategory="Miscellaneous rig equipment" Pattern="Checker" />
+      <index59 SubCategory="Motor or rotary steerable system failure" Pattern="Confetti" />
+      <index60 SubCategory="Mud stability problems" Pattern="Divot" />
+      <index61 SubCategory="Mud weight change" Pattern="Frame" />
+      <index62 SubCategory="Other" Pattern="Horizontal" />
+      <index63 SubCategory="Other influx or kicks" Pattern="Shingle" />
+      <index64 SubCategory="Pending analysis" Pattern="Sloping" />
+      <index65 SubCategory="Performing a kill" Pattern="Solid" />
+      <index66 SubCategory="Personnel" Pattern="Brick" />
+      <index67 SubCategory="Pit gain or loss" Pattern="Diagonal" />
+      <index68 SubCategory="Poor hole cleaning" Pattern="Cross" />
+      <index69 SubCategory="Pore pressure" Pattern="Dashed" />
+      <index70 SubCategory="Reaming greater than 2 hours" Pattern="Weave" />
+      <index71 SubCategory="Resurveying" Pattern="Checker" />
+      <index72 SubCategory="Rig communications" Pattern="Confetti" />
+      <index73 SubCategory="Rig move" Pattern="Divot" />
+      <index74 SubCategory="Riser disconnect" Pattern="Frame" />
+      <index75 SubCategory="Shallow gas flow" Pattern="Horizontal" />
+      <index76 SubCategory="Shallow water influx" Pattern="Shingle" />
+      <index77 SubCategory="Shoe failures" Pattern="Sloping" />
+      <index78 SubCategory="Sidetrack" Pattern="Solid" />
+      <index79 SubCategory="Sloughing or packoffs" Pattern="Brick" />
+      <index80 SubCategory="Special additives needed" Pattern="Diagonal" />
+      <index81 SubCategory="Squeeze jobs" Pattern="Cross" />
+      <index82 SubCategory="Stick and slip" Pattern="Dashed" />
+      <index83 SubCategory="Stratigraphy" Pattern="Weave" />
+      <index84 SubCategory="Stuck casing or completion" Pattern="Checker" />
+      <index85 SubCategory="Stuck pipe" Pattern="Confetti" />
+      <index86 SubCategory="Surface instrumentation problems" Pattern="Divot" />
+      <index87 SubCategory="Surface system" Pattern="Frame" />
+      <index88 SubCategory="Tectonics" Pattern="Horizontal" />
+      <index89 SubCategory="Tight hole or over pull" Pattern="Shingle" />
+      <index90 SubCategory="Time" Pattern="Sloping" />
+      <index91 SubCategory="Tool or equipment failure" Pattern="Solid" />
+      <index92 SubCategory="Topdrive failure" Pattern="Brick" />
+      <index93 SubCategory="Trips greater than 24 hours" Pattern="Diagonal" />
+      <index94 SubCategory="Twist off" Pattern="Cross" />
+      <index95 SubCategory="Uneven wear of BHA" Pattern="Dashed" />
+      <index96 SubCategory="Uneven wear of drillstring" Pattern="Weave" />
+      <index97 SubCategory="Unknown" Pattern="Checker" />
+      <index98 SubCategory="Unstable zones" Pattern="Confetti" />
+      <index99 SubCategory="Vibration axial" Pattern="Divot" />
+      <index100 SubCategory="Vibration torsional" Pattern="Frame" />
+      <index101 SubCategory="Vibration transverse" Pattern="Horizontal" />
+      <index102 SubCategory="Vibration unknown or rough drilling" Pattern="Shingle" />
+      <index103 SubCategory="Waiting on decisions" Pattern="Sloping" />
+      <index104 SubCategory="Waiting on tools" Pattern="Solid" />
+      <index105 SubCategory="Waiting on weather" Pattern="Brick" />
+      <index106 SubCategory="Washouts" Pattern="Diagonal" />
+      <index107 SubCategory="Well collision actual" Pattern="Cross" />
+      <index108 SubCategory="Well collision technical" Pattern="Dashed" />
+      <index109 SubCategory="Wellbore stability" Pattern="Weave" />
+      <index110 SubCategory="Wireline stuck in hole" Pattern="Checker" />
+      <index111 SubCategory="Wrong total flow area" Pattern="Confetti" />
+    </PatternMapping>
+  </MappingOfRiskSubCategory>
+  <MappingOfRiskType>
+    <ShapeMapping>
+      <index0 Type="Best practice" Shape="Blade" />
+      <index1 Type="Event" Shape="Cuboid" />
+      <index2 Type="Lessons learned" Shape="Cylinder" />
+      <index3 Type="Near miss" Shape="Hexagonal prism" />
+      <index4 Type="Other" Shape="Octagonal prism" />
+      <index5 Type="Risk" Shape="Pentagonal prism" />
+      <index6 Type="Unknown" Shape="Triangular prism" />
+    </ShapeMapping>
+    <ColorMapping>
+      <index0 Type="Best practice" Color="0, 0, 255" />
+      <index1 Type="Event" Color="0, 255, 0" />
+      <index2 Type="Lessons learned" Color="255, 0, 255" />
+      <index3 Type="Near miss" Color="0, 255, 255" />
+      <index4 Type="Other" Color="255, 0, 127" />
+      <index5 Type="Risk" Color="255, 255, 0" />
+      <index6 Type="Unknown" Color="255, 0, 0" />
+    </ColorMapping>
+    <PatternMapping>
+      <index0 Type="Best practice" Pattern="Dashed" />
+      <index1 Type="Event" Pattern="Diagonal" />
+      <index2 Type="Lessons learned" Pattern="Weave" />
+      <index3 Type="Near miss" Pattern="Cross" />
+      <index4 Type="Other" Pattern="Checker" />
+      <index5 Type="Risk" Pattern="Brick" />
+      <index6 Type="Unknown" Pattern="Solid" />
+    </PatternMapping>
+  </MappingOfRiskType>
+</RiskTheme>

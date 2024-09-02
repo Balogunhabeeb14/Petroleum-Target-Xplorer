@@ -1,17 +1,26 @@
-import os
 import pandas as pd
-import numpy as np 
-import seaborn as sns
+import numpy as np
 import matplotlib.pyplot as plt
-import time
+
+from sklearn.ensemble import RandomForestClassifier
+from lightgbm import LGBMClassifier
+from sklearn.svm import SVC
 from sklearn.model_selection import StratifiedKFold
-from sklearn.feature_selection import RFECV
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from yellowbrick.model_selection import RFECV
+from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
-from sklearn.linear_model import LinearRegression
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.svm import SVR
+from sklearn.preprocessing import StandardScaler, OrdinalEncoder, LabelEncoder
+from sklearn.linear_model import LogisticRegression, SGDClassifier
+from sklearn.model_selection import StratifiedKFold, train_test_split, cross_validate
+from sklearn.naive_bayes import GaussianNB
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.ensemble import AdaBoostClassifier
+from sklearn.neural_network import MLPClassifier
+import warnings
+warnings.filterwarnings("ignore")
+
 
 def load_excel_sheets(file_path):
     '''Load all sheets from an Excel file and return a dictionary of DataFrames.'''

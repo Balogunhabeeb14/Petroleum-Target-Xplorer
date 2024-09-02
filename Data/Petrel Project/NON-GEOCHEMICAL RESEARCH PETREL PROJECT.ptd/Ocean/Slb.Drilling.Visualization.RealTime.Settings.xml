@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RealTimeSettings version="2015.1">
+  <RealTimeLogLevel>Info</RealTimeLogLevel>
+  <RTBatchSize>100000</RTBatchSize>
+  <RTBatchInterval>5000</RTBatchInterval>
+  <EnableContextMenu>true</EnableContextMenu>
+  <HonorMdRange>false</HonorMdRange>
+  <AzimRef>GRID_NORTH</AzimRef>
+  <WellheadOffsetX>0</WellheadOffsetX>
+  <WellheadOffsetY>0</WellheadOffsetY>
+</RealTimeSettings>

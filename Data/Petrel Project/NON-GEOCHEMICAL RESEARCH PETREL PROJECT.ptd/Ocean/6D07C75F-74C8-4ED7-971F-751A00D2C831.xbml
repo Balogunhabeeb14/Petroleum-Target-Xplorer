@@ -1,0 +1,45 @@
+BXML°Version°Id°Ref°Type°Size°Cache°ºSystem.Collections.Generic.Dictionary`2[[Slb.Ocean.Core.Droid, Slb.Ocean.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b],[System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089°Entry°Key°gSlb.Ocean.Core.Droid, Slb.Ocean.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b°hashCode°id°ZSystem.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089°source°Value°÷Slb.Sis.Eaf.Coc.Services.Ocean.DomainObjects.Geoscreening.Internal.ArchivableDataSet, Slb.Sis.Eaf.Coc.Services.Ocean.DomainObjects.Geoscreening, Version=2021.1.27.0, Culture=neutral, PublicKeyToken=964b0ceaed7ffdd4°DataSet†∂B
+Ç™Ç	a/http://www.slb.com/Petrel/2011/03/SerializationBBà™BÅBàô$c0b62d5d-fd24-4f0c-8437-c2195eb649d8Bàô$6D07C75F-74C8-4ED7-971F-751A00D2C831Bà™B ö†™<Slb.Sis.Eaf.Coc.Services.Ocean.DomainObjects>
+  <xs:schema id="Slb.Sis.Eaf.Coc.Services.Ocean.DomainObjects" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:†™msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Slb.Sis.Eaf.Coc.Services.Ocean.DomainObjects" msdata:IsDataSet="true" msdata:UseCurrentLocale="true"†™>
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DroidIndexMasterTables">
+            <xs:complexType>
+  †™            <xs:sequence>
+                <xs:element name="droid" type="xs:string" minOccurs="0" />
+                <xs:element name="id" type="xs:string" minOccurs="0†™" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="SerialNumberIndex">
+            <xs:complexType>†™
+              <xs:sequence>
+                <xs:element name="droid" type="xs:string" minOccurs="0" />
+                <xs:element name="id" type="xs:string" minOccurs†™="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="RealizationNumberMap">
+            <xs:complex†™Type>
+              <xs:sequence>
+                <xs:element name="case" type="xs:string" minOccurs="0" />
+                <xs:element name="vc" type="xs:string" minO†™ccurs="0" />
+                <xs:element name="id" type="xs:string" minOccurs="0" />
+                <xs:element name="grid" type="xs:string" minOccurs="0" />
+        †™      </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="ChildrenMap">
+            <xs:complexType>
+              <xs:s†™equence>
+                <xs:element name="parent" type="xs:string" minOccurs="0" />
+                <xs:element name="child" type="xs:string" minOccurs="0" />
+       †‘       </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</Slb.Sis.Eaf.Coc.Services.Ocean.DomainObjects>

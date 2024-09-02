@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+    <ProjectInformation>
+        <BackendFormat>SQLiteBackend</BackendFormat>
+        <CompatibleRev>-1;</CompatibleRev>
+        <CreationDate>2023/08/11 08:44</CreationDate>
+        <Creator>JUVICLE BOSUN</Creator>
+        <Duration>8161</Duration>
+        <InternalRev>30</InternalRev>
+        <LastModification>2024/01/08 13:16</LastModification>
+        <LastModificator>JUVICLE BOSUN</LastModificator>
+        <DefaultOpenMode>single user [read/write]</DefaultOpenMode>
+        <Description></Description>
+        <ImportWellName></ImportWellName>
+        <MostRecentVersion>2021.2.4201157</MostRecentVersion>
+        <ProjectCountry>ng</ProjectCountry>
+        <ProjectName>Kolomani 2</ProjectName>
+        <ProjectState>in progress</ProjectState>
+        <RepositoryPath></RepositoryPath>
+    </ProjectInformation>
+    <Connections>
+        <connection start="2023/08/11 08:44" user="JUVICLE BOSUN" end="2023/08/11 08:44" diff="0"/>
+        <connection start="2023/08/11 08:44" user="JUVICLE BOSUN" end="2023/08/11 16:41" diff="477"/>
+        <connection start="2023/08/14 09:50" user="JUVICLE BOSUN" end="2023/08/14 16:10" diff="379"/>
+        <connection start="2023/08/15 11:09" user="JUVICLE BOSUN" end="2023/08/15 16:36" diff="326"/>
+        <connection start="2023/08/16 08:55" user="JUVICLE BOSUN" end="2023/08/16 16:12" diff="436"/>
+        <connection start="2023/08/18 09:10" user="JUVICLE BOSUN" end="2023/08/18 15:28" diff="377"/>
+        <connection start="2023/08/24 20:16" user="JUVICLE BOSUN" end="2023/08/24 23:38" diff="202"/>
+        <connection start="2023/08/28 08:44" user="JUVICLE BOSUN" end="2023/08/28 08:55" diff="11"/>
+        <connection start="2023/08/31 11:34" user="JUVICLE BOSUN" end="2023/08/31 16:16" diff="281"/>
+        <connection start="2023/09/01 15:25" user="JUVICLE BOSUN" end="2023/09/01 16:32" diff="66"/>
+        <connection start="2023/09/04 09:00" user="JUVICLE BOSUN" end="2023/09/04 16:48" diff="468"/>
+        <connection start="2023/09/05 07:39" user="JUVICLE BOSUN" end="2023/09/05 16:36" diff="537"/>
+        <connection start="2023/09/11 07:21" user="JUVICLE BOSUN" end="2023/09/11 16:56" diff="575"/>
+        <connection start="2023/09/13 08:56" user="JUVICLE BOSUN" end="2023/09/13 09:15" diff="18"/>
+        <connection start="2023/09/13 09:16" user="JUVICLE BOSUN" end="2023/09/13 09:16" diff="0"/>
+        <connection start="2023/09/14 07:53" user="JUVICLE BOSUN" end="2023/09/14 16:17" diff="504"/>
+        <connection start="2023/09/15 15:10" user="JUVICLE BOSUN" end="2023/09/15 15:17" diff="6"/>
+        <connection start="2023/09/15 15:18" user="JUVICLE BOSUN" end="2023/09/15 16:21" diff="63"/>
+        <connection start="2023/09/18 12:27" user="JUVICLE BOSUN" end="2023/09/18 13:20" diff="52"/>
+        <connection start="2023/09/18 13:21" user="JUVICLE BOSUN" end="2023/09/18 16:41" diff="200"/>
+        <connection start="2023/10/16 10:25" user="JUVICLE BOSUN" end="2023/10/16 10:25" diff="0"/>
+        <connection start="2023/10/16 10:25" user="JUVICLE BOSUN" end="2023/10/16 10:25" diff="0"/>
+        <connection start="2023/10/19 14:44" user="JUVICLE BOSUN" end="2023/10/19 14:44" diff="0"/>
+        <connection start="2023/10/19 14:44" user="JUVICLE BOSUN" end="2023/10/19 15:30" diff="45"/>
+        <connection start="2023/10/20 06:53" user="JUVICLE BOSUN" end="2023/10/20 20:39" diff="826"/>
+        <connection start="2023/10/23 10:44" user="JUVICLE BOSUN" end="2023/10/23 16:15" diff="331"/>
+        <connection start="2023/10/24 08:30" user="JUVICLE BOSUN" end="2023/10/24 08:35" diff="5"/>
+        <connection start="2023/10/24 08:35" user="JUVICLE BOSUN" end="2023/10/24 08:35" diff="0"/>
+        <connection start="2023/10/24 11:33" user="JUVICLE BOSUN" end="2023/10/24 11:33" diff="0"/>
+        <connection start="2023/10/24 11:34" user="JUVICLE BOSUN" end="2023/10/25 16:32" diff="1738"/>
+        <connection start="2023/10/26 22:39" user="JUVICLE BOSUN" end="2023/10/26 22:42" diff="3"/>
+        <connection start="2023/10/26 22:42" user="JUVICLE BOSUN" end="2023/10/26 22:42" diff="0"/>
+        <connection start="2023/11/06 08:02" user="JUVICLE BOSUN" end="2023/11/06 08:02" diff="0"/>
+        <connection start="2023/11/06 08:02" user="JUVICLE BOSUN" end="2023/11/06 08:02" diff="0"/>
+        <connection start="2023/11/06 15:53" user="JUVICLE BOSUN" end="2023/11/06 15:53" diff="0"/>
+        <connection start="2023/11/06 15:53" user="JUVICLE BOSUN" end="2023/11/06 15:53" diff="0"/>
+        <connection start="2023/11/07 08:50" user="JUVICLE BOSUN" end="2023/11/07 08:50" diff="0"/>
+        <connection start="2023/12/01 00:16" user="JUVICLE BOSUN" end="2023/12/01 00:16" diff="0"/>
+        <connection start="2023/12/01 00:16" user="JUVICLE BOSUN" end="2023/12/01 00:16" diff="0"/>
+        <connection start="2023/12/04 08:19" user="JUVICLE BOSUN" end="2023/12/04 08:19" diff="0"/>
+        <connection start="2023/12/04 08:20" user="JUVICLE BOSUN" end="2023/12/04 08:20" diff="0"/>
+        <connection start="2023/12/04 08:22" user="JUVICLE BOSUN" end="2023/12/04 08:22" diff="0"/>
+        <connection start="2023/12/04 08:22" user="JUVICLE BOSUN" end="2023/12/04 08:22" diff="0"/>
+        <connection start="2023/12/04 08:22" user="JUVICLE BOSUN" end="2023/12/04 08:22" diff="0"/>
+        <connection start="2023/12/04 08:24" user="JUVICLE BOSUN" end="2023/12/04 08:24" diff="0"/>
+        <connection start="2023/12/04 08:25" user="JUVICLE BOSUN" end="2023/12/04 08:25" diff="0"/>
+        <connection start="2023/12/04 08:37" user="JUVICLE BOSUN" end="2023/12/04 08:37" diff="0"/>
+        <connection start="2023/12/05 12:52" user="JUVICLE BOSUN" end="2023/12/05 12:52" diff="0"/>
+        <connection start="2023/12/05 12:54" user="JUVICLE BOSUN" end="2023/12/05 12:54" diff="0"/>
+        <connection start="2023/12/05 12:54" user="JUVICLE BOSUN" end="2023/12/05 12:54" diff="0"/>
+        <connection start="2023/12/05 12:55" user="JUVICLE BOSUN" end="2023/12/05 12:55" diff="0"/>
+        <connection start="2023/12/06 14:37" user="JUVICLE BOSUN" end="2023/12/06 14:37" diff="0"/>
+        <connection start="2023/12/06 14:38" user="JUVICLE BOSUN" end="2023/12/06 14:38" diff="0"/>
+        <connection start="2023/12/18 12:00" user="JUVICLE BOSUN" end="2023/12/18 12:00" diff="0"/>
+        <connection start="2024/01/04 12:42" user="JUVICLE BOSUN" end="2024/01/04 12:42" diff="0"/>
+        <connection start="2024/01/04 12:43" user="JUVICLE BOSUN" end="2024/01/04 12:43" diff="0"/>
+        <connection start="2024/01/08 09:17" user="JUVICLE BOSUN" end="2024/01/08 09:17" diff="0"/>
+        <connection start="2024/01/08 09:20" user="JUVICLE BOSUN" end="2024/01/08 13:16" diff="235"/>
+        <connection start="2024/01/10 10:51" user="JUVICLE BOSUN" end="2024/01/10 10:51" diff="0"/>
+        <connection start="2024/01/10 10:52" user="JUVICLE BOSUN" end="2024/01/10 10:52" diff="0"/>
+        <connection start="2024/01/19 08:06" user="JUVICLE BOSUN" end="2024/01/19 08:06" diff="0"/>
+        <connection start="2024/01/19 08:07" user="JUVICLE BOSUN" end="2024/01/19 08:07" diff="0"/>
+        <connection start="2024/01/19 13:39" user="JUVICLE BOSUN" end="2024/01/19 13:39" diff="0"/>
+        <connection start="2024/01/19 13:39" user="JUVICLE BOSUN" end="2024/01/19 13:39" diff="0"/>
+        <connection start="2024/01/19 13:48" user="JUVICLE BOSUN" end="2024/01/19 13:48" diff="0"/>
+        <connection start="2024/01/23 15:33" user="JUVICLE BOSUN" end="2024/01/23 15:33" diff="0"/>
+    </Connections>
+    <Comments/>
+</Settings>

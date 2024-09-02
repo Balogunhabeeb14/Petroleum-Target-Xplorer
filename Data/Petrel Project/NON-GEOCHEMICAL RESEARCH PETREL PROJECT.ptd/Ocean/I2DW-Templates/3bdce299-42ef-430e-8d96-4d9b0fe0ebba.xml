@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FormatTemplate>
+  <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Framework.Core.Templates.FormatTemplate&amp;id=3bdce299-42ef-430e-8d96-4d9b0fe0ebba</Droid>
+  <ApplicationName>Petrel</ApplicationName>
+  <FrameworkVersion>2021.2</FrameworkVersion>
+  <Name>Bitmap log</Name>
+  <LastModified UtcTicks="637789248000000000" />
+  <ModifiedBy>(Made by Petrel)</ModifiedBy>
+  <TemplateCollection>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Framework.Core.Templates.FormatTemplateCollection&amp;id=a1efed01-3207-4127-83ec-3f2f384d479a</TemplateCollection>
+  <BoreholeTemplateItems>
+    <IndexFormatTemplate>
+      <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Plugin.Petrel.Templates.IndexFormatTemplate&amp;id=ec9b06da-09c6-4106-b3ae-929c2c57a763</Droid>
+      <Name>Index track</Name>
+      <Enabled>true</Enabled>
+      <NeedToAutoRefreshCandidateList>true</NeedToAutoRefreshCandidateList>
+      <AllowedParentTypes>
+        <AllowedParentType>BoreholeRootFormatTemplateNode</AllowedParentType>
+        <AllowedParentType>DeviatedRootFormatTemplate</AllowedParentType>
+      </AllowedParentTypes>
+      <Styles>
+        <IndexTrackStyle>
+          <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Core.Styles.IndexTrackStyle&amp;id=8e1d697b-10e6-49a2-9877-4f5962a14dbe</Droid>
+          <FlattenAuto>true</FlattenAuto>
+          <FlattenStyle>Absolute</FlattenStyle>
+          <AnnotateAuto>true</AnnotateAuto>
+          <AnnotateStyle>Horizontal</AnnotateStyle>
+          <AnnotateAngle>-45</AnnotateAngle>
+          <TickAuto>true</TickAuto>
+          <TickLeft>true</TickLeft>
+          <TickRight>true</TickRight>
+          <DepthKind>SSTVD</DepthKind>
+          <UseTrackWidth>false</UseTrackWidth>
+          <UseConstantWidth>false</UseConstantWidth>
+          <ConstantWidth>10</ConstantWidth>
+          <UseSpecifiedTrackFont>false</UseSpecifiedTrackFont>
+          <ConstantFont>8</ConstantFont>
+          <UseWellScale>false</UseWellScale>
+          <ShowScaleLabel>true</ShowScaleLabel>
+          <ShowIndexBorders>true</ShowIndexBorders>
+          <MajorIncrementAuto>true</MajorIncrementAuto>
+          <MajorIncrementManualValue>100</MajorIncrementManualValue>
+          <NumberOfMinorTicks>10</NumberOfMinorTicks>
+        </IndexTrackStyle>
+      </Styles>
+      <CustomAttributes />
+    </IndexFormatTemplate>
+    <IndexFormatTemplate>
+      <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Plugin.Petrel.Templates.IndexFormatTemplate&amp;id=896b2ec9-153d-4854-97fc-b039def5e03c</Droid>
+      <Name>MD</Name>
+      <Enabled>true</Enabled>
+      <NeedToAutoRefreshCandidateList>true</NeedToAutoRefreshCandidateList>
+      <AllowedParentTypes>
+        <AllowedParentType>BoreholeRootFormatTemplateNode</AllowedParentType>
+        <AllowedParentType>DeviatedRootFormatTemplate</AllowedParentType>
+      </AllowedParentTypes>
+      <Styles>
+        <IndexTrackStyle>
+          <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Core.Styles.IndexTrackStyle&amp;id=3a69967e-f77d-45a2-b41a-190c32deb59f</Droid>
+          <FlattenAuto>true</FlattenAuto>
+          <FlattenStyle>Absolute</FlattenStyle>
+          <AnnotateAuto>true</AnnotateAuto>
+          <AnnotateStyle>Horizontal</AnnotateStyle>
+          <AnnotateAngle>-45</AnnotateAngle>
+          <TickAuto>true</TickAuto>
+          <TickLeft>true</TickLeft>
+          <TickRight>true</TickRight>
+          <DepthKind>MD</DepthKind>
+          <UseTrackWidth>false</UseTrackWidth>
+          <UseConstantWidth>false</UseConstantWidth>
+          <ConstantWidth>10</ConstantWidth>
+          <UseSpecifiedTrackFont>false</UseSpecifiedTrackFont>
+          <ConstantFont>8</ConstantFont>
+          <UseWellScale>true</UseWellScale>
+          <ShowScaleLabel>true</ShowScaleLabel>
+          <ShowIndexBorders>true</ShowIndexBorders>
+          <MajorIncrementAuto>true</MajorIncrementAuto>
+          <MajorIncrementManualValue>100</MajorIncrementManualValue>
+          <NumberOfMinorTicks>10</NumberOfMinorTicks>
+        </IndexTrackStyle>
+      </Styles>
+      <CustomAttributes />
+    </IndexFormatTemplate>
+    <DataTrackFormatTemplate>
+      <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Core.Templates.DataTrackFormatTemplate&amp;id=bf5e945e-6615-40e9-9d12-5d1554ec13b2</Droid>
+      <Name>Bitmap log</Name>
+      <Enabled>true</Enabled>
+      <NeedToAutoRefreshCandidateList>true</NeedToAutoRefreshCandidateList>
+      <AllowedParentTypes>
+        <AllowedParentType>BoreholeRootFormatTemplateNode</AllowedParentType>
+        <AllowedParentType>DeviatedRootFormatTemplate</AllowedParentType>
+      </AllowedParentTypes>
+      <Styles>
+        <TemplateInfoStyle>
+          <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Core.Styles.TemplateInfoStyle&amp;id=9d9aba3a-2205-4a0e-b4af-618c08f048d5</Droid>
+          <UseAutomaticNamingTag>true</UseAutomaticNamingTag>
+          <NameTag>Undef</NameTag>
+        </TemplateInfoStyle>
+        <TrackSettingsStyle>
+          <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Core.Styles.TrackSettingsStyle&amp;id=eb4cff35-5b8a-4258-a694-0ef84708bd23</Droid>
+          <IsDiscreteTrack>false</IsDiscreteTrack>
+          <UseTrackWidth>false</UseTrackWidth>
+          <TrackWidth>25</TrackWidth>
+          <TrackWidthLocked>false</TrackWidthLocked>
+          <GridlineType>Linear</GridlineType>
+          <ValueLabelType>Cumulative</ValueLabelType>
+          <AllowValueLabelOption>false</AllowValueLabelOption>
+          <ShowValueLabels>true</ShowValueLabels>
+          <UseVerticalLines>true</UseVerticalLines>
+          <VerticalLineSpacingType>Auto</VerticalLineSpacingType>
+          <VerticalLineIncrement>10</VerticalLineIncrement>
+          <VerticalLineDivisions>5</VerticalLineDivisions>
+          <UseMajorHorizontalLines>true</UseMajorHorizontalLines>
+          <UseMinorHorizontalLines>false</UseMinorHorizontalLines>
+          <UseBorderLines>true</UseBorderLines>
+          <LineColor>-16777216</LineColor>
+          <LineWidth>1</LineWidth>
+          <BackgroundColor>-1</BackgroundColor>
+          <BackgroundTransparency>0</BackgroundTransparency>
+          <EndValue>1</EndValue>
+          <DecadeCount>1</DecadeCount>
+          <LogScale>1</LogScale>
+          <UseMinorLogarithmicVerticalLines>true</UseMinorLogarithmicVerticalLines>
+          <LimitMinorLogarithmicVerticalLines>true</LimitMinorLogarithmicVerticalLines>
+          <AllowMixedScales>false</AllowMixedScales>
+        </TrackSettingsStyle>
+        <CurveFillStyle>
+          <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Core.Styles.CurveFillStyle&amp;id=07f709c1-0c1c-4f9b-be33-abc25033520b</Droid>
+          <CurveFillStyleItems />
+        </CurveFillStyle>
+      </Styles>
+      <Children>
+        <BitmapLogFormatTemplate>
+          <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Plugin.Petrel.Templates.BitmapLogFormatTemplate&amp;id=ad41e824-a511-43aa-b536-42a4c628987b</Droid>
+          <Name>Bitmap log</Name>
+          <Enabled>true</Enabled>
+          <NeedToAutoRefreshCandidateList>true</NeedToAutoRefreshCandidateList>
+          <AllowedParentTypes>
+            <AllowedParentType>DataTrackFormatTemplate</AllowedParentType>
+          </AllowedParentTypes>
+          <Styles>
+            <TemplateInfoStyle>
+              <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Core.Styles.TemplateInfoStyle&amp;id=ef4810de-39c9-43b6-a7e9-e6aeef66e9ec</Droid>
+              <UseAutomaticNamingTag>false</UseAutomaticNamingTag>
+              <NameTag>Bitmap log</NameTag>
+            </TemplateInfoStyle>
+            <BitmapLogTemplateDefinitionStyle>
+              <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Plugin.Petrel.Styles.TemplateDefinition.BitmapLogTemplateDefinitionStyle&amp;id=801f06cd-5a24-491d-b800-3d643fa2025b</Droid>
+              <PrimaryDomainObject></PrimaryDomainObject>
+              <SecondaryDomainObject></SecondaryDomainObject>
+              <TertiaryDomainObject></TertiaryDomainObject>
+              <IsTertiaryCheckBoxChecked>false</IsTertiaryCheckBoxChecked>
+              <FilterString></FilterString>
+              <MatchSimilar>false</MatchSimilar>
+              <IsCreatedFromTemplatePage>true</IsCreatedFromTemplatePage>
+              <DefinitionEntries />
+            </BitmapLogTemplateDefinitionStyle>
+            <BitmapLogStyle>
+              <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.GeoscienceWindow.Wellsection.Plugin.Petrel.Styles.BitmapLogStyle&amp;id=8463ff32-29e5-484f-95a5-f7c25f06f1ab</Droid>
+              <EditLineColor>-16777216</EditLineColor>
+              <BoundaryColor>-65536</BoundaryColor>
+              <ShowBoundary>true</ShowBoundary>
+              <LineWidth>2</LineWidth>
+              <LineStyle>Solid</LineStyle>
+            </BitmapLogStyle>
+          </Styles>
+          <CustomAttributes />
+        </BitmapLogFormatTemplate>
+      </Children>
+      <CustomAttributes />
+    </DataTrackFormatTemplate>
+  </BoreholeTemplateItems>
+  <WellsectionTemplateItems />
+  <CorrelationTemplateItems />
+  <DeviatedTemplateItems />
+  <Color>LightBlue</Color>
+  <Comment>Well section template</Comment>
+</FormatTemplate>

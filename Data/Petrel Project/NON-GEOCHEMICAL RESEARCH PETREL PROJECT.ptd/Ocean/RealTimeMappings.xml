@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RealTimeMappings version="2015.1">
+  <UnitMapping IncomingUnit="klbf" MappedUnit="1000 lbf" ScaleFactor="1" />
+  <UnitMapping IncomingUnit="galUS/min" MappedUnit="m3/h" ScaleFactor="0.227" />
+  <UnitMapping IncomingUnit="lbm/galUS" MappedUnit="kg/m3" ScaleFactor="119.8264" />
+  <UnitMapping IncomingUnit="kft.lbf" MappedUnit="1000 ft.lbf" ScaleFactor="1" />
+  <UnitMapping IncomingUnit="lbf/in2" MappedUnit="psi" ScaleFactor="1" />
+  <UnitMapping IncomingUnit="60 min" MappedUnit="h" ScaleFactor="1" />
+  <UnitMapping IncomingUnit="0.001 kg" MappedUnit="g" ScaleFactor="1" />
+</RealTimeMappings>

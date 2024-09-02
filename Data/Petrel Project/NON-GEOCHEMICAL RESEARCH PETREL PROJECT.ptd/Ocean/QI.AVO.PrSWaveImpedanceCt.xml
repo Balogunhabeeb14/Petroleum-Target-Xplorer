@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlAutoDataSource Version="1">
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/cd12ede9-ea98-4306-9a99-41b0cd4631d2">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/cd12ede9-ea98-4306-9a99-41b0cd4631d2</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/976b0ebb-7025-430e-8989-154c3eef1ec2">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/976b0ebb-7025-430e-8989-154c3eef1ec2</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/59c39e11-6605-4e33-a70c-7ae9f8ddd599">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/59c39e11-6605-4e33-a70c-7ae9f8ddd599</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/333bd1df-ce18-4394-b847-b350f2dfe48f">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/333bd1df-ce18-4394-b847-b350f2dfe48f</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/12fdc321-a049-4113-9e68-0515816f0b22">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/12fdc321-a049-4113-9e68-0515816f0b22</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/0747eabc-29e7-4dc4-8f5d-493e00b55537">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/0747eabc-29e7-4dc4-8f5d-493e00b55537</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/6c72bf8c-fe9b-4f43-9722-2180f15fd246">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/6c72bf8c-fe9b-4f43-9722-2180f15fd246</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/79772cc3-dc1b-46fa-aad0-414c9c09d168">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/79772cc3-dc1b-46fa-aad0-414c9c09d168</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/cd675d1e-cfcb-481a-a075-c75742065a33">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/cd675d1e-cfcb-481a-a075-c75742065a33</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/6bafd003-1ff5-4159-ae8a-25db05a1d6f3">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/6bafd003-1ff5-4159-ae8a-25db05a1d6f3</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/5d72b910-a266-486a-9ed6-089ae897de28">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/5d72b910-a266-486a-9ed6-089ae897de28</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/bcb838ce-6ec9-4c69-919d-92c1018d47ba">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/bcb838ce-6ec9-4c69-919d-92c1018d47ba</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/cb1160d1-d760-4e49-a27b-d2a666c601a6">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/cb1160d1-d760-4e49-a27b-d2a666c601a6</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/ad051c3f-8de3-441f-acb0-b81ec8ec56fe">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/ad051c3f-8de3-441f-acb0-b81ec8ec56fe</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/4b3242bc-e443-43cb-a2a7-b324d0e3c1c3">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/4b3242bc-e443-43cb-a2a7-b324d0e3c1c3</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/d3e4d0df-b932-49db-bc8a-2dc2d3f95924">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/d3e4d0df-b932-49db-bc8a-2dc2d3f95924</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/588733e1-0c99-46cf-b44a-a234c715fbb5">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/588733e1-0c99-46cf-b44a-a234c715fbb5</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/33bee014-42af-4135-951f-94d315af6b1c">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/33bee014-42af-4135-951f-94d315af6b1c</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/e6e92915-ac57-44d3-9d13-3b30f031c9ad">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/e6e92915-ac57-44d3-9d13-3b30f031c9ad</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/17f77e14-66f8-43ba-a868-e15f18668c5f">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/17f77e14-66f8-43ba-a868-e15f18668c5f</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/40bb10a4-1d4e-4dc9-96af-6f9c3c874859">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/40bb10a4-1d4e-4dc9-96af-6f9c3c874859</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/0079d544-966a-448b-b4b1-d5cde2f9728f">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/0079d544-966a-448b-b4b1-d5cde2f9728f</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/6bf7e60c-78e0-4e2b-8b15-1f656f91f21a">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/6bf7e60c-78e0-4e2b-8b15-1f656f91f21a</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/7af387b6-c644-4808-b8a1-b834e6b71f1a">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/7af387b6-c644-4808-b8a1-b834e6b71f1a</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/65568099-eff9-4284-ba71-f0a00d232f0c">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/65568099-eff9-4284-ba71-f0a00d232f0c</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/1d16c686-23ef-4b2c-a5a4-6e320e178a96">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/1d16c686-23ef-4b2c-a5a4-6e320e178a96</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/11b176de-03e5-4a27-ac16-29e1632d0470">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/11b176de-03e5-4a27-ac16-29e1632d0470</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/ed6c441f-ecad-4c7b-8ad7-2b6f80d0c907">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/ed6c441f-ecad-4c7b-8ad7-2b6f80d0c907</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/3e909c33-673d-4b88-a0c2-3103e40d9fa3">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/3e909c33-673d-4b88-a0c2-3103e40d9fa3</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/bfd5f982-8291-43bf-b340-e2f136545409">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/bfd5f982-8291-43bf-b340-e2f136545409</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/884b359d-fc8d-47dc-8693-561f5ba3b587">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/884b359d-fc8d-47dc-8693-561f5ba3b587</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/b96cf4ec-71f2-45cd-97c2-73a4bf715049">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/b96cf4ec-71f2-45cd-97c2-73a4bf715049</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/ff62ecac-fd9d-4b74-b1bc-9cf6a6de083e">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/ff62ecac-fd9d-4b74-b1bc-9cf6a6de083e</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/5eb39e6b-554d-49a6-87c4-d6e7096fd1ca">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/5eb39e6b-554d-49a6-87c4-d6e7096fd1ca</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/7527312e-0eaa-49ee-9f66-56a562646951">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/7527312e-0eaa-49ee-9f66-56a562646951</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/7f833277-29fc-4149-b955-a31ef998a263">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/7f833277-29fc-4149-b955-a31ef998a263</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/230a529f-b912-4585-9f99-8b5d9d6b9388">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/230a529f-b912-4585-9f99-8b5d9d6b9388</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/e25f4425-2926-41af-8790-f91eeb8afee1">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/e25f4425-2926-41af-8790-f91eeb8afee1</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/8aabfbf0-7a88-4308-800b-6a20d43dcbe9">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/8aabfbf0-7a88-4308-800b-6a20d43dcbe9</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/2b5712c4-28a0-4125-ad10-9b7aae3fb68a">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/2b5712c4-28a0-4125-ad10-9b7aae3fb68a</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/70d7d1f7-9cc6-4f15-b5d5-51bdc61fa4c3">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/70d7d1f7-9cc6-4f15-b5d5-51bdc61fa4c3</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/d8684360-1466-47a7-8e37-d7e4004420d0">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/d8684360-1466-47a7-8e37-d7e4004420d0</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/cdd0d2bf-5af5-4a9d-a8b1-bc673df3c2b6">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/cdd0d2bf-5af5-4a9d-a8b1-bc673df3c2b6</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/5768ae4c-a277-4d99-98d9-a6f76e784e3c">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/5768ae4c-a277-4d99-98d9-a6f76e784e3c</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+  <QI.AVO.PrSWaveImpedanceCt droid="://QI.AVO.PrSWaveImpedanceCt/1ae639a8-37b8-4e66-b266-fc0b2dbb1211">
+    <VpVsRatio>2</VpVsRatio>
+    <PolynomialFitArguments Type="Slb.Brgc.Avo.Core.LineFitting.PolynomialFitting.LeastSquaresSecondOrderArgumentPackage" Assembly="Slb.Petrel.QI.AVO.Core" XmlSerializableMagic="42">
+      <InvertAxes>False</InvertAxes>
+    </PolynomialFitArguments>
+    <MinTrace>0</MinTrace>
+    <MaxTrace>0</MaxTrace>
+    <Step>0</Step>
+    <Droid>://QI.AVO.PrSWaveImpedanceCt/1ae639a8-37b8-4e66-b266-fc0b2dbb1211</Droid>
+  </QI.AVO.PrSWaveImpedanceCt>
+</XmlAutoDataSource>

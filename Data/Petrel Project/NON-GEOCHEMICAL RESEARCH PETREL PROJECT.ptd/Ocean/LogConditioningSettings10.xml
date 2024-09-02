@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ProcessSettingsModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SelectedLogOverlaySolidColor>255;139;0;0</SelectedLogOverlaySolidColor>
+  <SelectedLogOverlayColorAlpha>90</SelectedLogOverlayColorAlpha>
+  <NonSelectedLogOverlaySolidColor>255;95;158;160</NonSelectedLogOverlaySolidColor>
+  <NonSelectedLogOverlayColorAlpha>70.3125</NonSelectedLogOverlayColorAlpha>
+  <SelectionSolidColor>255;128;128;128</SelectionSolidColor>
+  <SelectionColorAlpha>15</SelectionColorAlpha>
+  <MinimumWindowOpacity>100</MinimumWindowOpacity>
+  <MaximumWindowOpacity>100</MaximumWindowOpacity>
+</ProcessSettingsModel>

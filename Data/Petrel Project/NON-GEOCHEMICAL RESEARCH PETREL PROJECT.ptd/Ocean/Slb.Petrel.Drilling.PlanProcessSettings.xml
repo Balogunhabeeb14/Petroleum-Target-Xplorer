@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlanProcessSettings version="2021.2">
+  <ErrorColor>Red</ErrorColor>
+  <HighlightColor>Yellow</HighlightColor>
+  <MaxDLS>3</MaxDLS>
+  <IgnoreDLS>False</IgnoreDLS>
+</PlanProcessSettings>

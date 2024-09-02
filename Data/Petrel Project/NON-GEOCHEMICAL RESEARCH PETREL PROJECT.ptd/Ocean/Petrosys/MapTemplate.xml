@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfMapTemplateDataItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MapTemplateDataItem Name="Petrosys map templates">
+    <Version>Petrel 2021.1</Version>
+    <Id>4af3f40d-ba0a-47e1-870d-5f31ec7b49b2</Id>
+    <DataSourceId>Petrosys.MapTemplateDataSource</DataSourceId>
+    <TemplateType>0</TemplateType>
+    <Data />
+    <UserName>AzureAD\PeterOdong</UserName>
+    <Time>2023-09-11T07:20:07.302517Z</Time>
+    <Parent>://empty/empty</Parent>
+    <Children />
+  </MapTemplateDataItem>
+</ArrayOfMapTemplateDataItem>

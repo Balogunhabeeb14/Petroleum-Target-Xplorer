@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CommandStatuses>
+  <CommandStatus>
+    <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.Ocean.Petrel.UI.WellSection.WellSectionWindow&amp;id=859233ea-e0ba-4e45-a10d-2ef562ae1969</Droid>
+    <Status>False</Status>
+  </CommandStatus>
+  <CommandStatus>
+    <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.Ocean.Petrel.UI.WellSection.WellSectionWindow&amp;id=da2e7dd5-a8db-4da9-b050-b87fae4d3c90</Droid>
+    <Status>False</Status>
+  </CommandStatus>
+  <CommandStatus>
+    <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.Ocean.Petrel.UI.WellSection.WellSectionWindow&amp;id=0687fe7a-eab4-4b90-bd5e-7f723f775ca9</Droid>
+    <Status>False</Status>
+  </CommandStatus>
+  <CommandStatus>
+    <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.Ocean.Petrel.UI.WellSection.WellSectionWindow&amp;id=8ee93ee0-824f-4873-a3ee-071ef12129ef</Droid>
+    <Status>False</Status>
+  </CommandStatus>
+  <CommandStatus>
+    <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.Ocean.Petrel.UI.WellSection.WellSectionWindow&amp;id=3bc43750-ab6c-4f9b-8843-cff720114123</Droid>
+    <Status>False</Status>
+  </CommandStatus>
+  <CommandStatus>
+    <Droid>://Slb.GeoscienceWindow.Framework.Core.DataSource.CoreDataSource/Type=Slb.Ocean.Petrel.UI.WellSection.WellSectionWindow&amp;id=6ec59349-0d2e-486d-9486-5ab663c8082a</Droid>
+    <Status>False</Status>
+  </CommandStatus>
+</CommandStatuses>
