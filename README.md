@@ -1,15 +1,1 @@
-# Petroleum-Target-Xplorer
-
-The data summary provides us with the metadata for the data. Herein, few observations found includes:
-
-- Litho-logs comprise features {Spectral Gamma, GR, SP, Mud-log, Caliper}
-- Porosity	comprises features {DT,	RHOB, CNL}
-- RES	comprises features {LLD, LLS}
-- Biostratigraphic Data
-- Well-Tops/Formation Tops
-- Reports	comprises features {Geologic,	Rock-Eval}
-- Rock-Eval	comprises features {S1, S2, S3,	HI,	OI, VR,	TOC, Tmax}
-
-These features were collected mostly for Kolmani river 2(KR2) and Kolmani river 3(KR3). To have a fair analysis, we will only include features that are available in both KR2 & KR3.
-
-PS. Most of the Multivariate linear regression analysis was repeated to confirm the dependent variable, what was discovered was that, the TOC(measured) was the actual variable predicted across all analysis
+Machine Learning methods have shown significance in automating the prediction of Total organic carbon (TOC) for determining source rock potential in oil and gas exploration. Higher TOC contents could indicate greater potential for oil and gas generation. Making accurate TOC predictions, therefore, is crucial in measuring hydrocarbon deposits for a prospective geological formation. Automating this procedure can save time and resources compared to conventional geochemical methods. This study explores machine learning methods on Frontier-Basin well-log data for TOC Prediction. Firstly, we employ feature selection methods to ensure optimal feature usage in regression and classification tasks. Additionally, we compare several supervised Machine Learning methods including Logistic Regression, Decision Tree, K-Nearest Neighbor, Gradient Boosting, and Naive Bayes Methods to categorize the quality of TOC using its defined standard ranges on the well-log data of Kolmani River 2 and 3, respectively. Furthermore, the Random Forest method was utilized for the regression task on both data. A 5 fold nested crossvalidation was utilized for classification and regression tasks. We show an exploratory analysis and the prospect of using Machine Learning methods to effectively classify TOC distribution using continuous well log data. Results show that Machine Learning methods are efficient for TOC prediction for non-geochemical
